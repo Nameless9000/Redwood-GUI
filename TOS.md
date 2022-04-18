@@ -1,4 +1,4 @@
-### You - general*
+## You - general*
 1. You are not allowed to claim ownership of the script or state that you created it.
 2. You are not allowed to build NSFW structures using FE b-tools.
 3. You are not allowed to target a player for an extended period of time in a toxic manor.
@@ -9,7 +9,7 @@
 8. You are not allowed to modify the coregui or playergui when / before using the script.
 9. You are not allowed to change your whitelisted account if you purchase VIP unless it gets perm banned.
  
-### We - logging*
+## We - logging*
 1. We are allowed to log your user IDs (Roblox & Discord) when you are using the script.
 2. We are allowed to log what buttons on the GUI you press when you are using the script.
 3. We are allowed to log the chat of the game when you are using the script.
@@ -17,13 +17,13 @@
 5. We are allowed to log the time you execute the script when you load the script.
 6. We are allowed to log external gui elements when you execute them with the script.
  
-### Your data*
+## Your data*
 1. Your data is used to improve the script and how it works.
 2. Your data is used to to enforce our terms of service.
 3. Your data is *not* private because it can be obtained by anyone in game with you using the same script*
 4. Your execution amount and more is displayed in game to other script users when you are using the script.
  
-### We - general*
+## We - general*
 1. We are allowed to blacklist you for any reason if we feel like doing so.
 2. We can only blacklist your know associated Roblox accounts.
 3. We will blacklist you if you break the "# - You*" section of the terms of service.
@@ -32,7 +32,7 @@
 6. We do not provide refunds for the paid version of the script.
 7. We can ban or kick you from our Discord for any reason.
  
-### Extra - misc*
+## Extra - misc*
 1. The script can get patched at any time and paid users will not be refunded.
 2. The paid script whitelist is via account so you can share you whitelisted account.
  
