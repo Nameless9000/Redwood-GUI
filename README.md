@@ -3,7 +3,7 @@
 
 Redwood Prison Script / 2019 - 2022
 
-Redwood Prison GUI Created By Nameless (Co Dev) & Jalos34 (Main Dev)
+Redwood Prison GUI Created By Nameless (Dev) & Jalos34 (Ex-Dev)
 
 Discord Link : https://discordapp.com/invite/ZX8segewN2 (Purchase premium whitelist here)
 TOS Link: https://github.com/Nameless9000/Redwood-GUI/blob/main/TOS.md (Please Read)
